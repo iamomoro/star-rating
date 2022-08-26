@@ -1,5 +1,12 @@
 import React from 'react'
 
+const colors = {
+  orange: "#FFBA5A",
+  grey: "#a9a9a9"
+  
+};
+
+
 const styles = {
   container: {
     display: "flex",
